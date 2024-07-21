@@ -50,6 +50,9 @@ running:
 
 ```sh
 npm start --prefix client
+
+video
+https://drive.google.com/file/d/1I9bq3BremHqkyllEkAXvddbTzesoiLgM/view?usp=sharing
 ```
 
 You are not being assessed on React, and you don't have to update any of the
