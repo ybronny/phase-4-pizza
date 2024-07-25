@@ -52,7 +52,7 @@ running:
 npm start --prefix client
 
 video
-https://drive.google.com/file/d/1I9bq3BremHqkyllEkAXvddbTzesoiLgM/view?usp=sharing
+https://drive.google.com/file/d/1LeJFrtUEI_NfjZdWLRF8057xYRe79xni/view?usp=sharing
 ```
 
 You are not being assessed on React, and you don't have to update any of the
